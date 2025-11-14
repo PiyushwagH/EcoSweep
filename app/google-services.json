@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8583694231",
+    "project_id": "ecosweep-36e44",
+    "storage_bucket": "ecosweep-36e44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8583694231:android:a1415040fc31623d8fe6d2",
+        "android_client_info": {
+          "package_name": "com.gaurav.ecosweep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0Iz4p4jcYtjSNUz6EKRIuHTVITQ4Rf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EcoSweep</string>
+    <string name="current_location">Current Location: %s</string>
+    <string name="location_unavailable">Location unavailable</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="please_describe_waste">Please describe the waste issue</string>
+    <string name="report_submitted">Waste report submitted successfully</string>
+    <string name="date_time">Date &amp; Time</string>
+
+    <!-- Waste Types -->
+    <string-array name="waste_types">
+        <item>General Waste</item>
+        <item>Recyclables</item>
+        <item>Organic Waste</item>
+        <item>Hazardous Waste</item>
+        <item>Bulky Items</item>
+    </string-array>
+</resources>

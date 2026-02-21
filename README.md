@@ -22,13 +22,13 @@ Firebase Authentication
 <h2>📱 App Screenshots</h2>
 
 <p align="center">
-  <img src="WhatsApp Image 2026-02-21 at 14.24.06 (1).jpeg" width="250"/>
-  <img src="WhatsApp Image 2026-02-21 at 14.24.06 (2).jpeg" width="250"/>
-  <img src="WhatsApp Image 2026-02-21 at 14.24.06.jpeg" width="250"/>
-  <img src="WhatsApp Image 2026-02-21 at 14.24.07 (1).jpeg"/>
-  <img src="WhatsApp Image 2026-02-21 at 14.24.07 (2).jpeg" width="250"/>
-  <img src="WhatsApp Image 2026-02-21 at 14.24.07.jpeg" width="250"/>
-  <img src="WhatsApp Image 2026-02-21 at 14.24.08.jpeg" width="250"/>
+  <img src="[WhatsApp Image 2026-02-21 at 14.24.06 (1)](https://github.com/PiyushwagH/EcoSweep/blob/main/Screenshot/WhatsApp%20Image%202026-02-21%20at%2014.24.06%20(1).jpeg)" width="250"/>
+  <img src="[WhatsApp Image 2026-02-21 at 14.24.06 (2).jpeg](https://github.com/PiyushwagH/EcoSweep/blob/main/Screenshot/WhatsApp%20Image%202026-02-21%20at%2014.24.06%20(2).jpeg)" width="250"/>
+  <img src="[WhatsApp Image 2026-02-21 at 14.24.06.jpeg](https://github.com/PiyushwagH/EcoSweep/blob/main/Screenshot/WhatsApp%20Image%202026-02-21%20at%2014.24.06.jpeg)" width="250"/>
+  <img src="[WhatsApp Image 2026-02-21 at 14.24.07 (1).jpeg](https://github.com/PiyushwagH/EcoSweep/blob/main/Screenshot/WhatsApp%20Image%202026-02-21%20at%2014.24.07%20(1).jpeg)" width="250"/>
+  <img src="[WhatsApp Image 2026-02-21 at 14.24.07 (2).jpeg](https://github.com/PiyushwagH/EcoSweep/blob/main/Screenshot/WhatsApp%20Image%202026-02-21%20at%2014.24.07%20(2).jpeg)" width="250"/>
+  <img src="[WhatsApp Image 2026-02-21 at 14.24.07.jpeg](https://github.com/PiyushwagH/EcoSweep/blob/main/Screenshot/WhatsApp%20Image%202026-02-21%20at%2014.24.07.jpeg)" width="250"/>
+  <img src="[WhatsApp Image 2026-02-21 at 14.24.08.jpeg](https://github.com/PiyushwagH/EcoSweep/blob/main/Screenshot/WhatsApp%20Image%202026-02-21%20at%2014.24.08.jpeg)" width="250"/>
 </p>
 
 

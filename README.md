@@ -17,13 +17,7 @@ The app helps users track cleaning requests, view nearby waste collection points
 Android Studio,
 Java,
 XML UI Layouts,
-Firebase Authentication![WhatsApp Image 2026-02-21 at 14 24 08](https://github.com/user-attachments/assets/e43ca6f8-8889-4592-80a6-b00ecd5d4b3a)
-![WhatsApp Image 2026-02-21 at 14 24 07](https://github.com/user-attachments/assets/4cb1e8d5-6971-45c7-a787-0050b9bc4e7f)
-![WhatsApp Image 2026-02-21 at 14 24 07 (2)](https://github.com/user-attachments/assets/66e8774b-15b4-4fd9-8c00-ee7bd2dcd32b)
-![WhatsApp Image 2026-02-21 at 14 24 07 (1)](https://github.com/user-attachments/assets/fcaf4d42-9544-4f52-be11-8133e28bc79b)
-![WhatsApp Image 2026-02-21 at 14 24 06](https://github.com/user-attachments/assets/31377e57-387e-441d-9e42-8649dd33c65f)
-![WhatsApp Image 2026-02-21 at 14 24 06 (2)](https://github.com/user-attachments/assets/39c0c00e-2538-4afa-9bdf-d608ffceda7f)
-![WhatsApp Image 2026-02-21 at 14 24 06 (1)](https://github.com/user-attachments/assets/cf3753c6-2db8-4336-95de-f1180dbb57f4)
+Firebase Authentication
 
 
 
